@@ -1,1 +1,1 @@
-# Netflix-Clone
+A simple Netflix clone built using HTML, CSS, and JavaScript. This project replicates the basic layout and functionality of the Netflix homepage, including a movie carousel, a responsive design, and static movie data. It's a great starting point for learning web development and building dynamic content with JavaScript.
