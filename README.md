@@ -10,11 +10,10 @@ A responsive and visually accurate **Netflix Clone** built using **HTML**, **CSS
 
 ## 📸 App Screenshots
 
-> _You can add your own screenshots here in the future!_
-
 <p align="center">
-  <img src="https://via.placeholder.com/350x200?text=Netflix+Clone+Screenshot+1" width="350" alt="Netflix Clone Screenshot Placeholder 1" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
-  <img src="https://via.placeholder.com/350x200?text=Netflix+Clone+Screenshot+2" width="350" alt="Netflix Clone Screenshot Placeholder 2" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="https://github.com/user-attachments/assets/7f919cfc-cccf-44b7-95ea-fb7d3e7a7518" width="350" alt="Netflix Clone Screenshot 1" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="https://github.com/user-attachments/assets/2a353466-2433-4bff-8416-2618ecf250a0" width="350" alt="Netflix Clone Screenshot 2" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+  <img src="https://github.com/user-attachments/assets/b0163097-fd42-462d-b699-821911c876c8" width="350" alt="Netflix Clone Screenshot 3" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
 </p>
 
 ---
